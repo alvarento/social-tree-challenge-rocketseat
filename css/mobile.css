@@ -1,0 +1,26 @@
+html {
+    font-size: 55%;
+}
+
+.container  {
+    width: 90%;
+    min-height: 90vh;
+}
+
+.links {
+    max-width: 80%;
+}
+
+.perfil img{
+    width: 130px;
+    height: 130px;
+}
+
+figure {
+    width: 140px;
+    height: 140px;
+}
+
+.links {
+    width: 90%;
+}
