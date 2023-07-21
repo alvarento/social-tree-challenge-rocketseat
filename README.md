@@ -12,4 +12,4 @@ Criar uma página com uma lista de links que pode ser usada em perfis de redes s
 ## :thumbsup: Resultado final
 <h3>Quer ver :eyes: como ficou o resultado final?<br>
 da uma olhada no link da página: :point_down:</h3>
-<h3>:smirk::point_right: <a href="https://alvaronascimento04.github.io/social-tree-challenge-rocketseat/" target="_blank">Social Tree</a></h3>
+<h3>:smirk::point_right: <a href="https://alvaronascimento-dev.github.io/social-tree-challenge-rocketseat/" target="_blank">Social Tree</a></h3>
